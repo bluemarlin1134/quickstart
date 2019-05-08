@@ -1,11 +1,11 @@
 baseurl = "/"
-title = "The Library"
-author = "The Librarian"
-copyright = "Information wants to be free [Stewart Brand, 1984]"
+title = "The Archives"
+author = "Lazar!!"
+copyright = "I don't really care. "
 canonifyurls = true
-paginate = 3
+paginate = 4
 theme = "newsprint"
 
 [params]
 
-subtitle = "Cave ab homine unius libri"
+subtitle = "Everything here at once."
