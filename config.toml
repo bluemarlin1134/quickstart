@@ -9,3 +9,9 @@ theme = "newsprint"
 [params]
 
 subtitle = "Everything here at once."
+
+[[menu.main]]
+  name = "🛩 🛳 My Travel Journal 🗻"
+  weight = 9
+  identifier = "travel"
+  url = "https://travel.lazarmarlin.tk"
