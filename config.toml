@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "www.https://example.org/"
 title = "The Library"
 author = "The Librarian"
 copyright = "Information wants to be free [Stewart Brand, 1984]"
