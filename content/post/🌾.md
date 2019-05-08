@@ -1,0 +1,37 @@
+---
+title: How seeds Grow
+---
+### Germination
+- plants disperse seeds
+	- a seed is an embryo and a food store enclosed in a coat
+    - the embryo will start to use the food store in the seed and grow into a new young plant
+    	- conditions needed
+        	- water
+            - oxygen
+            - enzymes
+
+![Life cycle of trees](http://texastreeid.tamu.edu/images/life-circle.jpg)
+
+### Dormancy
+- seeds lay around until the right conditions
+- seeds must have at least 5 - 20% water
+- the seed must start to photosynthesize befor all the food is used
+
+### Water
+- activates enzymes in seed
+- converts starch to sugar and proteins to amino acids
+
+### Oxygen
+- the testa is impermiable so befor any oxygen can enter the seed the testa must split
+- O2 provides energy
+
+### Temperature
+- germination occours best a 40 degrees celsius
+- above 45 degrees celsius enzymes in the cell are denatured
+
+### Light
+- plants grow from seeds which are just below the surface
+- in most seeds light is not needed for germination
+- some plants need light before they germinate
+    - foxglove
+    - certain types of lettuce
